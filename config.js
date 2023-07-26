@@ -1,5 +1,5 @@
 module.exports = {
 
-    token: "your token ",
+    token: "your token",
     color: "#FF000",
 }
