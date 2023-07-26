@@ -27,7 +27,7 @@
     "systeminformation": "^5.17.9",
     "ytdl-core": "^4.11.2"
   },
-  "name": "dennbot",
+  "name": "xifi-music",
   "version": "1.0.0",
   "description": "dennsecurity",
   "main": "index.js",
